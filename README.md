@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Arthur Albuquerque dos Reis 👋
-### 🧑🏽Quem sou eu?
+### 🧑🏽 Quem sou eu?
 Eu sou um desenvolvedor iniciante que pretende tornar-se um grande engenheiro de software. Todos os frameworks e bibliotecas mencionados, eu os estudo e pretendo evoluir bastante neles.
-### ✨My social media
+### ✨ My social media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/threis27_/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-albuquerque-2b157b2a0/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/M0vsz27)
